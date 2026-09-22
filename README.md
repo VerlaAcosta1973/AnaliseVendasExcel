@@ -53,7 +53,7 @@ O projeto foi construído utilizando metodologias profissionais de estruturaçã
 1.  Certifique-se de ter o **Microsoft Excel** instalado em sua máquina.
 2.  Clone este repositório para o seu ambiente local:
     ```bash
-    git clone https://github.com
+    git clone https://github.com/VerlaAcosta1973/AnaliseVendasExcel
     ```
 3.  Abra o arquivo `.xlsx` do projeto.
 4.  Caso utilize os recursos do Power Query e mova os arquivos de dados de pasta, lembre-se de atualizar o caminho das fontes em: **Dados** > **Consultas e Conexões** > **Configurações da Fonte de Dados**.
