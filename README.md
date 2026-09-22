@@ -41,10 +41,11 @@ O projeto foi construído utilizando metodologias profissionais de estruturaçã
 
 ---
 
+
 ## 📸 Visualização do Dashboard
 
-*(Insira aqui os prints do seu dashboard finalizado no Excel para enriquecer visualmente o portfólio!)*
-<!-- Exemplo de como inserir: ![Nome da Foto](caminho_da_foto.png) -->
+![Tela Principal do Dashboard](dashboardExcel.png)
+
 
 ---
 
